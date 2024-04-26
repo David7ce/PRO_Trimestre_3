@@ -1,0 +1,15 @@
+C:\Users\d7\MEGA\DAW-23-24\PRO\code\Trimestre-3\Trimestre_3_David\FicheroBinario\bin\Debug\net8.0\FicheroBinario.exe
+C:\Users\d7\MEGA\DAW-23-24\PRO\code\Trimestre-3\Trimestre_3_David\FicheroBinario\bin\Debug\net8.0\FicheroBinario.deps.json
+C:\Users\d7\MEGA\DAW-23-24\PRO\code\Trimestre-3\Trimestre_3_David\FicheroBinario\bin\Debug\net8.0\FicheroBinario.runtimeconfig.json
+C:\Users\d7\MEGA\DAW-23-24\PRO\code\Trimestre-3\Trimestre_3_David\FicheroBinario\bin\Debug\net8.0\FicheroBinario.dll
+C:\Users\d7\MEGA\DAW-23-24\PRO\code\Trimestre-3\Trimestre_3_David\FicheroBinario\bin\Debug\net8.0\FicheroBinario.pdb
+C:\Users\d7\MEGA\DAW-23-24\PRO\code\Trimestre-3\Trimestre_3_David\FicheroBinario\obj\Debug\net8.0\FicheroBinario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d7\MEGA\DAW-23-24\PRO\code\Trimestre-3\Trimestre_3_David\FicheroBinario\obj\Debug\net8.0\FicheroBinario.AssemblyInfoInputs.cache
+C:\Users\d7\MEGA\DAW-23-24\PRO\code\Trimestre-3\Trimestre_3_David\FicheroBinario\obj\Debug\net8.0\FicheroBinario.AssemblyInfo.cs
+C:\Users\d7\MEGA\DAW-23-24\PRO\code\Trimestre-3\Trimestre_3_David\FicheroBinario\obj\Debug\net8.0\FicheroBinario.csproj.CoreCompileInputs.cache
+C:\Users\d7\MEGA\DAW-23-24\PRO\code\Trimestre-3\Trimestre_3_David\FicheroBinario\obj\Debug\net8.0\FicheroBinario.sourcelink.json
+C:\Users\d7\MEGA\DAW-23-24\PRO\code\Trimestre-3\Trimestre_3_David\FicheroBinario\obj\Debug\net8.0\FicheroBinario.dll
+C:\Users\d7\MEGA\DAW-23-24\PRO\code\Trimestre-3\Trimestre_3_David\FicheroBinario\obj\Debug\net8.0\refint\FicheroBinario.dll
+C:\Users\d7\MEGA\DAW-23-24\PRO\code\Trimestre-3\Trimestre_3_David\FicheroBinario\obj\Debug\net8.0\FicheroBinario.pdb
+C:\Users\d7\MEGA\DAW-23-24\PRO\code\Trimestre-3\Trimestre_3_David\FicheroBinario\obj\Debug\net8.0\FicheroBinario.genruntimeconfig.cache
+C:\Users\d7\MEGA\DAW-23-24\PRO\code\Trimestre-3\Trimestre_3_David\FicheroBinario\obj\Debug\net8.0\ref\FicheroBinario.dll

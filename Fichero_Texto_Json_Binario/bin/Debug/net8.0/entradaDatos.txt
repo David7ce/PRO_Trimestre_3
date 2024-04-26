@@ -1,0 +1,14 @@
+Alemania
+100
+Dinamarca
+234
+España
+567
+Francia
+456
+Irlanda
+678
+Italia
+345
+Noruega
+890

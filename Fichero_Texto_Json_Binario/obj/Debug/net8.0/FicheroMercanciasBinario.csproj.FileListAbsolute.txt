@@ -1,0 +1,15 @@
+C:\Users\d7\MEGA\DAW-23-24\PRO\code\Trimestre-3\Trimestre_3_David\Fichero_Texto_Json_Binario\bin\Debug\net8.0\Fichero_Texto_Json_Binario.exe
+C:\Users\d7\MEGA\DAW-23-24\PRO\code\Trimestre-3\Trimestre_3_David\Fichero_Texto_Json_Binario\bin\Debug\net8.0\Fichero_Texto_Json_Binario.deps.json
+C:\Users\d7\MEGA\DAW-23-24\PRO\code\Trimestre-3\Trimestre_3_David\Fichero_Texto_Json_Binario\bin\Debug\net8.0\Fichero_Texto_Json_Binario.runtimeconfig.json
+C:\Users\d7\MEGA\DAW-23-24\PRO\code\Trimestre-3\Trimestre_3_David\Fichero_Texto_Json_Binario\bin\Debug\net8.0\Fichero_Texto_Json_Binario.dll
+C:\Users\d7\MEGA\DAW-23-24\PRO\code\Trimestre-3\Trimestre_3_David\Fichero_Texto_Json_Binario\bin\Debug\net8.0\Fichero_Texto_Json_Binario.pdb
+C:\Users\d7\MEGA\DAW-23-24\PRO\code\Trimestre-3\Trimestre_3_David\Fichero_Texto_Json_Binario\obj\Debug\net8.0\Fichero_Texto_Json_Binario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d7\MEGA\DAW-23-24\PRO\code\Trimestre-3\Trimestre_3_David\Fichero_Texto_Json_Binario\obj\Debug\net8.0\Fichero_Texto_Json_Binario.AssemblyInfoInputs.cache
+C:\Users\d7\MEGA\DAW-23-24\PRO\code\Trimestre-3\Trimestre_3_David\Fichero_Texto_Json_Binario\obj\Debug\net8.0\Fichero_Texto_Json_Binario.AssemblyInfo.cs
+C:\Users\d7\MEGA\DAW-23-24\PRO\code\Trimestre-3\Trimestre_3_David\Fichero_Texto_Json_Binario\obj\Debug\net8.0\Fichero_Texto_Json_Binario.csproj.CoreCompileInputs.cache
+C:\Users\d7\MEGA\DAW-23-24\PRO\code\Trimestre-3\Trimestre_3_David\Fichero_Texto_Json_Binario\obj\Debug\net8.0\Fichero_Texto_Json_Binario.sourcelink.json
+C:\Users\d7\MEGA\DAW-23-24\PRO\code\Trimestre-3\Trimestre_3_David\Fichero_Texto_Json_Binario\obj\Debug\net8.0\Fichero_Texto_Json_Binario.dll
+C:\Users\d7\MEGA\DAW-23-24\PRO\code\Trimestre-3\Trimestre_3_David\Fichero_Texto_Json_Binario\obj\Debug\net8.0\refint\Fichero_Texto_Json_Binario.dll
+C:\Users\d7\MEGA\DAW-23-24\PRO\code\Trimestre-3\Trimestre_3_David\Fichero_Texto_Json_Binario\obj\Debug\net8.0\Fichero_Texto_Json_Binario.pdb
+C:\Users\d7\MEGA\DAW-23-24\PRO\code\Trimestre-3\Trimestre_3_David\Fichero_Texto_Json_Binario\obj\Debug\net8.0\Fichero_Texto_Json_Binario.genruntimeconfig.cache
+C:\Users\d7\MEGA\DAW-23-24\PRO\code\Trimestre-3\Trimestre_3_David\Fichero_Texto_Json_Binario\obj\Debug\net8.0\ref\Fichero_Texto_Json_Binario.dll

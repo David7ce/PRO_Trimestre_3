@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Fichero_Texto_Json_Binario/1.0.0": {
+        "runtime": {
+          "Fichero_Texto_Json_Binario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fichero_Texto_Json_Binario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

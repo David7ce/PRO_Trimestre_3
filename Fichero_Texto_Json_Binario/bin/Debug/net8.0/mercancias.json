@@ -1,0 +1,30 @@
+[
+  {
+    "Destino": "Alemania",
+    "Peso": 100
+  },
+  {
+    "Destino": "Dinamarca",
+    "Peso": 234
+  },
+  {
+    "Destino": "Espa\u00F1a",
+    "Peso": 567
+  },
+  {
+    "Destino": "Francia",
+    "Peso": 456
+  },
+  {
+    "Destino": "Irlanda",
+    "Peso": 678
+  },
+  {
+    "Destino": "Italia",
+    "Peso": 345
+  },
+  {
+    "Destino": "Noruega",
+    "Peso": 890
+  }
+]
